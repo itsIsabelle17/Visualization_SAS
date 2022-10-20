@@ -13,7 +13,8 @@ As one of the exercises I did in course dnsc 6323, I became an analyst for a hea
 * H4: The blood pressure is higher for people with higher cholesterol levels
 * In addition, providing some distinctive characteristics for people who suffered from coronary heart disease and make some assumptions regarding the potential underlying causes of this illness.
 
-## Tool used: [SAS (SAS Viya Learners platform)](https://www.sas.com/en_us/software/viya-for-learners.html)
+## Tool used: 
+[SAS (SAS Viya Learners platform)](https://www.sas.com/en_us/software/viya-for-learners.html)
 
 ## Process:
 1) Accessed SAS Viya for Learners platform and accessed HEART data source 
