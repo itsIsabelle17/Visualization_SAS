@@ -1,22 +1,25 @@
 # Visualization for Analytics_SAS
 
-## Instruction
-You are an analyst at a health care consulting company and your new client is a large hospital chain. This institution collects, on a regular basis, data about patients that received treatment in one of their hospitals, but due to lack of appropriate analytical solutions and a shortage of qualified medical analysts, the scientists could not make significant progress in obtaining useful insights. As part of the engagement, you are assigned the role to assist the scientists in analyzing the data about the patients and provide information to the medical research team. The scientists from the research institution have a list they would like to test using the existing patient data. It is based on the theories and findings from the latest medical literature. The team has shared data on patients with heart disease (the HEART data set up on the SAS Viya for Learners platform) and you should test with great insights.
+## Project Overview  
 
-## Description of the project
-As one of the exercises I did in course dnsc 6323, I became an analyst for a health care consulting firm and provided an analytic solution for data to my clients, a large hospital chain. Using existing patient data for a list of hypotheses to produce results. The data is about patients with heart disease (heart data set up on the SAS Viya for Learners platform).
+I assumed the role of an analyst at a prestigious healthcare consulting company and carried out a short-term project. The organization, a major hospital chain, collects data on patients receiving treatment within their hospitals on a regular basis. However, due to the lack of appropriate analytical solutions and a shortage of skilled medical analysts, the scientific team encountered challenges in extracting meaningful insights from this valuable data.
+My role in this project was to assist the scientists in analyzing the patient data and providing crucial information to the medical research team. To begin, I meticulously investigated a curated list of hypotheses and utilized the powerful SAS Viya for Learners platform to analyze the provided HEART dataset. My mission in this project was to analyze the data, generate insightful results through visualization, and present them in a comprehensive report.
 
-## Tested Hypotheses:
+## Project Description  
+
+As part of the coursework for dnsc 6323, I assumed the role of an analyst at a healthcare consulting firm, where I delivered analytical solutions to clients within a large hospital chain. Leveraging patient data, specifically focusing on individuals with heart disease, I conducted a thorough analysis to test a set of hypotheses. This analysis was performed utilizing the SAS Viya for Learners platform.
+
+## Tested Hypotheses:  
 * H1: The weight and cholesterol levels are correlated
 * H2: Men are usually more obese than women
 * H3: Women usually smoke less than men, but their cholesterol level is higher
 * H4: The blood pressure is higher for people with higher cholesterol levels
 * In addition, providing some distinctive characteristics for people who suffered from coronary heart disease and make some assumptions regarding the potential underlying causes of this illness.
 
-## Tool used: 
+## Tool used:  
 [SAS (SAS Viya Learners platform)](https://www.sas.com/en_us/software/viya-for-learners.html)
 
-## Process:
+## Process:  
 1) Accessed SAS Viya for Learners platform and accessed HEART data source 
 2) Explored and analyzed the HEART data set
 3) Did Experiments with different analytical models to identify important insights
